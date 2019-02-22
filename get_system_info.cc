@@ -1,3 +1,5 @@
+// 获取操作系统的信息, 比如cpu的信息
+
 // WARNING: logging calls back to InitializeSystemInfo so it must not invoke
 // any logging code.
 static void InitializeSystemInfo() {
